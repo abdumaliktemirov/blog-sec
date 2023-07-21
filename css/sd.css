@@ -1,0 +1,521 @@
+@media all and (min-width: 1025px) and (max-width: 1340px) {
+    .width-wrapper {
+        max-width: 1024px;
+    }
+
+    header.inner {
+        background: url(../images/logo-bg.png) no-repeat bottom left -50px;
+    }
+
+    .img-wrapper img {
+        max-width: 100%;
+    }
+
+    .main-block2 .right-pane {
+        width: 50%;
+        padding-bottom: 70px;
+    }
+
+    .main-block2 .image-wrapper img {
+        height: 500px;
+    }
+
+    .main-block2 .image-wrapper {
+        height: 567px;
+    }
+
+    .main-block2 {
+        margin-top: 120px;
+    }
+
+    .main-block4 .image-wrapper {
+        right: -340px;
+    }
+
+    .main-block4 .image-wrapper img {
+        width: 893px;
+    }
+
+    .main-block4 .features {
+        margin-top: 160px;
+    }
+
+    .payments-block1 .img-wrapper {
+        width: 801px;
+        top: 250px;
+        z-index: -1;
+    }
+
+    .payments-block1 .img-wrapper img {
+        max-width: 100%;
+    }
+
+    .payments-block1 h1 {
+        width: 500px;
+    }
+
+    .payments-block1 p {
+        width: 491px;
+    }
+
+    .payments-block1 {
+        height: 800px;
+    }
+
+    .payments-block2 p {
+        width: auto;
+    }
+
+    .payments-block4 .img-wrapper img {
+        max-width: 100%;
+    }
+
+    .payments-block4 .img-wrapper {
+        right: 0;
+        top: -100px;
+        max-width: 100%;
+        width: 670px;
+    }
+
+    .payments-block4 .img-wrapper img {
+        max-width: 100%;
+    }
+
+    .payments-block4 p {
+        z-index: 1;
+        position: relative;
+    }
+
+    .payments-block4 {
+        padding-top: 120px;
+    }
+
+    .payments-block5 {
+        padding-top: 60px;
+    }
+
+    .payments-block5 h2 {
+        margin-bottom: 30px;
+    }
+
+    .payments-block5 .text {
+        height: 271px;
+    }
+
+    .payments-block6 {
+        height: 456px;
+    }
+
+    .payments-block7 .img-wrapper {
+        width: 520px;
+    }
+
+    .payments-block7 .img-wrapper img {
+        max-width: 100%;
+    }
+
+    .payments-block8 .img-wrapper {
+        width: 540px;
+    }
+
+    .payments-block8 .img-wrapper img {
+        max-width: 100%;
+    }
+
+    .payments-enablement-block1 h1 {
+        width: 550px;
+    }
+
+    .payments-enablement-block1 p {
+        width: 550px;
+    }
+
+    .payments-enablement-block1 .img-wrapper {
+        width: 750px;
+        top: 195px;
+        z-index: -1;
+    }
+
+    .payments-enablement-block1 .img-wrapper img {
+        max-width: 100%;
+    }
+
+    .payments-enablement-block1 {
+        padding-top: 95px;
+        height: 700px;
+    }
+
+    .payments-enablement-block2 p {
+        width: auto;
+    }
+
+    .payments-enablement-block4 .img-wrapper img {
+        max-width: 100%;
+    }
+
+    .payments-enablement-block4 .img-wrapper {
+        width: 540px;
+    }
+
+    .payments-enablement-block6 .img-wrapper {}
+
+    .payments-enablement-block6 .img-wrapper img {
+        max-width: 100%;
+    }
+
+    .payments-enablement-block6 .text {
+        margin-top: 40px;
+        position: relative;
+    }
+
+    .payments-enablement-block6 .img-wrapper {
+        width: 540px;
+    }
+
+    .online-payments-block1 h1 {
+        width: 540px;
+    }
+
+    .online-payments-block1 p {
+        width: 540px;
+    }
+
+    .online-payments-block1 .img-wrapper {
+        width: 708px;
+        z-index: -1;
+    }
+
+    .online-payments-block1 {
+        height: 700px;
+    }
+
+    .online-payments-block6 .img-wrapper {
+        width: 540px;
+        margin-top: 40px;
+    }
+
+    .pos-systems-block1 p {
+        width: 540px;
+    }
+
+    .pos-systems-block1 .img-wrapper {
+        width: 851px;
+        right: 0px;
+        top: 294px;
+        z-index: -1;
+    }
+
+    .pos-systems-block1 .img-wrapper .image-right-blur {
+        right: 0;
+    }
+
+    .pos-systems-block1 {
+        height: 770px;
+    }
+
+    .pos-systems-block2 .text {
+        width: auto;
+    }
+
+    .pos-systems-block2 .logos .item {
+        width: 320px;
+    }
+
+    .merchant-management-block1 p {
+        width: 540px;
+    }
+
+    .merchant-management-block1 .img-wrapper {
+        width: 692px;
+        right: 0;
+        top: 284px;
+        z-index: -1;
+    }
+
+    .merchant-management-block1 .img-wrapper .image-right-blur {
+        right: 0;
+    }
+
+    .merchant-management-block1 {
+        height: 740px;
+    }
+
+    .merchant-management-block2 p {
+        width: auto;
+    }
+
+    .merchant-management-block4 {
+        margin-top: -166px;
+    }
+
+    .merchant-management-block5 {
+        height: 650px;
+    }
+
+    .merchant-management-block6 .img-wrapper {
+        width: 510px;
+    }
+
+    .merchant-management-block7 .img-wrapper {
+        width: 680px;
+    }
+
+    .merchant-management-block7 {
+        height: 450px;
+    }
+
+    .payment-facilitator-block1 p {
+        width: 550px;
+    }
+
+    .payment-facilitator-block1 .img-wrapper {
+        width: 760px;
+        top: 325px;
+        height: 443px;
+    }
+
+    .payment-facilitator-block1 {
+        height: 790px;
+    }
+
+    .payment-facilitator-block4 .img-wrapper {
+        width: 780px;
+    }
+
+    .payment-facilitator-block4 .text4 {
+        position: relative;
+    }
+
+    .payment-facilitator-block4 .img-wrapper {
+        width: 820px;
+    }
+
+    .online-banking-block1 h1 {
+        width: 570px;
+    }
+
+    .online-banking-block1 .img-wrapper {
+        width: 490px;
+    }
+
+    .online-banking-block2 .pane-left {
+        width: 320px;
+    }
+
+    .online-banking-block2 .pane-right {
+        width: 320px;
+    }
+
+    .online-banking-block9 .images .item img {
+        max-width: 100%;
+    }
+
+    .developers-and-isvs-block1 p {
+        width: 550px;
+    }
+
+    .developers-and-isvs-block1 h1 {
+        width: 540px;
+    }
+
+    .developers-and-isvs-block1 .img-wrapper {
+        width: 770px;
+        z-index: -1;
+    }
+
+    .developers-and-isvs-block1 {
+        height: 670px;
+    }
+
+    .developers-and-isvs-block2 p {
+        width: auto;
+    }
+
+    .developers-and-isvs-block4 .img-wrapper {
+        width: 610px;
+        margin-top: 90px;
+    }
+
+    .developers-and-isvs-block5 .text {
+        padding: 50px 30px 20px;
+    }
+
+    .developers-and-isvs-block5 .text ul li {
+        width: 25%;
+    }
+
+    .developers-and-isvs-block5 {
+        margin-top: 60px;
+    }
+
+    .developers-and-isvs-block5 h2 {
+        margin-bottom: 50px;
+    }
+
+    .wholesale-block1 h1 {
+        width: 540px;
+    }
+
+    .wholesale-block1 p {
+        width: 540px;
+    }
+
+    .wholesale-block1 .img-wrapper {
+        width: 783px;
+        z-index: -1;
+    }
+
+    .wholesale-block1 .img-wrapper {
+        height: 541px;
+    }
+
+    .wholesale-block1 {
+        height: 870px;
+    }
+
+    .wholesale-block2 p {
+        width: auto;
+    }
+
+    .wholesale-block4 {
+        margin-top: -200px;
+    }
+
+    .wholesale-block4 .text h2 {
+        width: 370px;
+    }
+
+    .iso-program-block1 p {
+        width: 540px;
+    }
+
+    .iso-program-block1 .img-wrapper {
+        top: 227px;
+        z-index: -1;
+    }
+
+    .iso-program-block1 {
+        height: 680px;
+    }
+
+    .iso-program-block2 .features-wrapper {
+        padding: 50px 30px;
+    }
+
+    .iso-program-block4 .text {
+        width: 530px;
+    }
+
+    .iso-program-block4 .img-wrapper {
+        top: 110px;
+        width: 440px;
+    }
+
+    .iso-program-block5 .text {
+        position: relative;
+        z-index: 1;
+    }
+
+    .agent-program-block1 h1 {
+        width: 550px;
+    }
+
+    .agent-program-block1 p {
+        width: 550px;
+    }
+
+    .agent-program-block1 .img-wrapper {
+        width: 632px;
+        top: 365px;
+        z-index: -1;
+        height: 395px;
+    }
+
+    .agent-program-block1 {
+        height: 820px;
+    }
+
+    .agent-program-block4 .text2 {
+        margin-top: 145px;
+    }
+
+    .agent-program-block5 .img-wrapper {
+        z-index: -1;
+    }
+
+    .agent-program-block7 .img-wrapper {
+        top: 60px;
+        width: 624px;
+        z-index: -1;
+    }
+
+    .retail-block1 h1 {
+        width: 550px;
+    }
+
+    .retail-block1 p {
+        width: 550px;
+    }
+
+    .retail-block1 .img-wrapper {
+        width: 652px;
+        z-index: -1;
+    }
+
+    .retail-block1 {
+        height: 680px;
+    }
+
+    .retail-block2 p {
+        width: auto;
+    }
+
+    .retail-block5 .img-wrapper {
+        width: 550px;
+        margin-top: 50px;
+    }
+
+    .retail-block5 .text {
+        padding-top: 25px;
+    }
+
+    .retail-block5 {
+        height: 450px;
+    }
+
+    .food-and-beverage-block1 p {
+        width: 550px;
+    }
+
+    .food-and-beverage-block1 .img-wrapper {
+        width: 697px;
+        height: 440px;
+        z-index: -1;
+    }
+
+    .food-and-beverage-block1 {
+        height: 750px;
+    }
+
+    .food-and-beverage-block2 p {
+        width: auto;
+    }
+
+    .food-and-beverage-block5 .img-wrapper {
+        width: 645px;
+        top: 20px;
+        z-index: -1;
+    }
+
+    .food-and-beverage-block6 .img-wrapper {
+        width: 522px;
+    }
+
+    .food-and-beverage-block7 .img-wrapper {
+        top: 90px;
+        width: 560px;
+    }
+    .iso-banking-block1 .img-wrapper {
+        right: 0;
+    }
+}

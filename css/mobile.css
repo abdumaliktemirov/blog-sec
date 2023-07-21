@@ -1,0 +1,1153 @@
+@media all and (max-width: 1024px) {
+    img {
+        max-width: 100%;
+    }
+
+    .width-wrapper {
+        max-width: none;
+        padding: 0px 20px;
+    }
+
+    .spacer {
+        padding-top: 100px;
+    }
+
+    header {
+        padding: 30px 0;
+    }
+
+    h1 {
+        font-size: 30px !important;
+        line-height: 40px !important;
+        margin-bottom: 30px !important;
+        width: auto !important;
+    }
+
+    h2 {
+        font-size: 25px !important;
+        line-height: 31px !important;
+        margin-bottom: 30px !important;
+        width: auto !important;
+    }
+
+    p {
+        width: auto !important;
+        font-size: 14px !important;
+        line-height: 24px !important;
+    }
+
+    .img-wrapper {
+        height: auto !important;
+        width: auto !important;
+        position: static !important;
+        text-align: center;
+        padding: 30px 0;
+    }
+
+    .text {
+        width: auto !important;
+        font-size: 14px !important;
+        line-height: 24px !important;
+    }
+
+    .button-white {
+        text-align: center;
+    }
+
+    header navbar {
+        /* display: none; */
+    }
+
+    header .signup {
+        display: none;
+    }
+
+    .image-left-blur {
+        display: none;
+    }
+
+    .image-right-blur {
+        display: none;
+    }
+
+    .main-block1 {
+        height: auto;
+        padding-bottom: 0;
+    }
+
+    .main-block1 h1 {
+        width: auto;
+        margin: 0;
+    }
+
+    .main-block2 {
+        margin-top: 60px;
+        padding-bottom: 70px;
+    }
+
+    .main-block2 .image-wrapper {
+        position: static;
+        height: auto;
+    }
+
+    .main-block2 .right-pane {
+        width: auto;
+        float: none;
+        padding-bottom: 0;
+    }
+
+    .main-block2 .image-wrapper img {
+        height: auto;
+    }
+
+    .main-block2 .image-left-blur {
+        height: 100%;
+    }
+
+    .main-block4 .image-wrapper {
+        position: static;
+        height: auto;
+        width: auto;
+    }
+
+    .main-block4 .text-wrapper {
+        width: auto;
+    }
+
+    .main-block4 .text-wrapper {
+        padding-top: 0;
+    }
+
+    .main-block4 .features {
+        margin-top: 60px;
+    }
+
+    .main-block4 .features-wrapper {
+        display: block;
+    }
+
+    .main-block4 .features-wrapper .item {
+        width: auto;
+        margin-bottom: 30px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    footer .flex-wrap.border {
+        display: block;
+    }
+
+    footer navbar li {
+        display: block;
+        padding-right: 0;
+        margin: 20px 0;
+    }
+
+    footer .social ul {
+        margin-top: 30px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    footer .line2 .flex-wrap {
+        display: block;
+        margin-bottom: 30px;
+    }
+
+    footer .line2 {
+        padding-top: 30px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    footer .line2 ul li {
+        margin-left: 0;
+    }
+
+    header.inner {
+        background: url(../images/logo-bg.png) no-repeat -150px bottom;
+    }
+
+    .wholesale-block1 {
+        height: auto;
+    }
+
+    .wholesale-block1 .img-wrapper {
+        width: auto;
+        position: static;
+        height: auto;
+    }
+
+    .wholesale-block1 h1 {
+        font-size: 30px;
+        line-height: 40px;
+        width: auto;
+    }
+
+    .wholesale-block1 p {
+        font-size: 14px;
+        line-height: 24px;
+        width: auto;
+    }
+
+    .wholesale-block2 {
+        padding-top: 50px;
+    }
+
+    .wholesale-block2 p {
+        width: auto;
+    }
+
+    .wholesale-block4 .text h2 {
+        width: auto;
+        float: none;
+        margin-bottom: 30px;
+    }
+
+    .wholesale-block4 ul {
+        width: auto;
+        float: none;
+    }
+
+    .wholesale-block8 h2 {
+        width: auto;
+    }
+
+    .wholesale-block8 {
+        padding-top: 70px;
+    }
+
+    .wholesale-block8 .text {
+        width: auto;
+    }
+
+    .wholesale-block4 ul li {
+        margin-bottom: 10px;
+    }
+
+    .retail-block1 .img-wrapper {
+        width: auto;
+        height: auto;
+        position: static;
+    }
+
+    .retail-block1 {
+        height: auto;
+    }
+
+    .retail-block2 {
+        margin-top: 50px;
+        padding-bottom: 200px;
+        height: auto;
+    }
+
+    .retail-block4 {
+        height: auto;
+    }
+
+    .retail-block4 .text {
+        margin-top: 30px;
+        float: none;
+        text-align: center;
+    }
+
+    .retail-block5 {
+        height: auto;
+        text-align: center;
+    }
+
+    .retail-block5 .img-wrapper {
+        height: auto;
+        width: auto;
+        position: static;
+    }
+
+    .retail-block5 h2 {
+        margin-top: 30px;
+    }
+
+    .retail-block8 .text {
+        width: auto;
+    }
+
+    .retail-block8 {
+        padding-top: 70px;
+    }
+
+    .pos-systems-block1 .img-wrapper {
+        position: static;
+        width: auto;
+        height: auto;
+    }
+
+    .pos-systems-block2 {
+        margin-top: 50px;
+    }
+
+    .pos-systems-block3 {
+        height: auto;
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+
+    .pos-systems-block1 {
+        height: auto;
+    }
+
+    .payments-block1 {
+        height: auto;
+    }
+
+    .payments-block2 {
+        margin-top: 50px;
+    }
+
+    .payments-block3 {
+        height: auto;
+        padding-bottom: 460px;
+    }
+
+    .payments-block4 {
+        height: auto;
+        padding-top: 0;
+    }
+
+    .payments-block5 {
+        padding: 30px 0 60px;
+    }
+
+    .payments-block5 .text {
+        height: auto;
+        display: block;
+        padding-top: 0;
+    }
+
+    .payments-block6 {
+        height: auto;
+    }
+
+    .payments-block6 .text {
+        padding-bottom: 30px;
+    }
+
+    .payments-block6 .item {
+        margin-left: 30px;
+    }
+
+    .payments-block7 {
+        text-align: center;
+        height: auto;
+    }
+
+    .payments-block7 h2 {
+        padding-top: 0px;
+    }
+
+    .payments-block8 .text {
+        text-align: center;
+        float: none;
+    }
+
+    .payments-block8 {
+        height: auto;
+        padding-bottom: 30px;
+        background-position-y: bottom;
+    }
+
+    .payments-enablement-block1 {
+        height: auto;
+    }
+
+    .payments-enablement-block2 {
+        height: auto;
+        margin-top: 60px;
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+
+    .payments-enablement-block4 .text {
+        float: none;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .payments-enablement-block5 {
+        margin-top: 60px;
+    }
+
+    .payments-enablement-block6 {
+        color: #3B3E43;
+        margin-top: 60px;
+    }
+
+    .payments-enablement-block6 .text {
+        margin-top: 60px;
+        float: none;
+        text-align: center;
+    }
+
+    .payments-enablement-block8 {
+        margin-top: 0;
+        padding-top: 70px;
+    }
+
+    .payment-facilitator-block1 {
+        height: auto;
+    }
+
+    .payment-facilitator-block3 {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 420px;
+    }
+
+    .payment-facilitator-block4 .text {
+        float: none;
+        width: auto;
+        text-align: center;
+    }
+
+    .payment-facilitator-block4 .text2 {
+        float: none;
+        width: auto;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .payment-facilitator-block4 .text3 {
+        float: none;
+        width: auto;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .payment-facilitator-block4 .text4 {
+        float: none;
+        width: auto;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .payment-facilitator-block4 {
+        background: none;
+    }
+
+    .payment-facilitator-block4 .content-wrapper {
+        padding-bottom: 60px;
+    }
+
+    .payment-facilitator-block8 {
+        padding-top: 70px;
+    }
+
+    .online-payments-block1 {
+        height: auto;
+    }
+
+    .online-payments-block2 {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        margin-top: 60px
+    }
+
+    .online-payments-block4 .text {
+        margin-top: 0;
+        float: none;
+        text-align: center;
+        float: none;
+    }
+
+    .online-payments-block6 {
+        text-align: center;
+        float: none;
+    }
+
+    .online-payments-block6 .text {
+        text-align: center;
+    }
+
+    .online-payments-block8 {
+        padding: 60px 0 60px;
+    }
+
+    .online-payments-block9 .text2 {
+        float: none;
+        text-align: center;
+        width: auto;
+        margin-top: 60px;
+    }
+
+    .online-payments-block9 {
+        height: auto;
+        background: none;
+        margin-top: 60px;
+        margin-bottom: 60px;
+        text-align: center;
+    }
+
+    .online-payments-block10 {
+        padding-bottom: 30px;
+    }
+
+    .online-payments-block10 h2 {
+        float: none;
+        width: auto;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .online-payments-block10 ul {
+        margin-left: 0;
+        justify-content: center;
+    }
+
+    .online-payments-block10 ul li {
+        width: 250px;
+    }
+
+    .merchant-management-block1 {
+        height: auto;
+        text-align: center;
+    }
+
+    .merchant-management-block2 {
+        height: auto;
+        padding-bottom: 50px;
+        padding-top: 70px;
+        margin-top: 60px;
+    }
+
+    .merchant-management-block4 {
+        height: auto;
+        background: none;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .merchant-management-block5 {
+        height: auto;
+        text-align: center;
+    }
+
+    .merchant-management-block5 .text {
+        padding-top: 50px;
+    }
+
+    .merchant-management-block4 .text {
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .merchant-management-block4 .text p {
+        float: none;
+    }
+
+    .merchant-management-block6 {
+        height: auto;
+        padding-top: 60px;
+    }
+
+    .merchant-management-block7 {
+        height: auto;
+        padding-bottom: 60px;
+        text-align: center;
+    }
+
+    .merchant-management-block7 .text {
+        padding-top: 60px;
+    }
+
+    .merchant-management-block6 .text {
+        float: none;
+        text-align: center;
+    }
+
+    .merchant-management-block8 {
+        padding-top: 70px;
+    }
+
+    header navbar {
+        display: none;
+    }
+
+    header navbar.show {
+        display: block;
+    }
+
+    header navbar {
+        position: fixed;
+        width: calc(100% - 50px);
+        left: 0;
+        top: 0;
+        background: #fff;
+        padding: 40px 25px 25px 25px;
+        height: calc(100vh - 50px);
+        overflow: auto;
+    }
+
+    header navbar>ul>li {
+        display: block;
+        padding-right: 0;
+    }
+
+    header navbar>ul>li>a {
+        color: #3B3E43;
+        text-transform: uppercase;
+        padding: 22px 0;
+        display: inline-block;
+        border-bottom: 1px solid #CDCFD1;
+        width: 100%;
+        letter-spacing: 1.5px;
+        font-size: 14px;
+        font-family: DMSans-Bold;
+        position: relative;
+        background-size: 21px;
+    }
+
+    header navbar>ul>li.expandable>a:after {
+        content: '';
+        position: absolute;
+        right: 0;
+        top: 23px;
+        background: url(../images/menu-check.png) right center no-repeat;
+        background-size: contain;
+        width: 21px;
+        height: 12px;
+    }
+
+    header navbar>ul>li>ul {
+        display: none;
+        position: static;
+        width: auto;
+        box-shadow: none;
+        padding: 0;
+        margin-top: 20px;
+    }
+
+    header navbar>ul>li.expanded>ul {
+        display: block;
+    }
+
+    header navbar>ul>li.expanded>a:after {
+        transform: rotate(180deg);
+    }
+
+    header navbar>ul>li>ul>li {
+        width: auto;
+    }
+
+    header navbar>ul>li>ul>li>ul {
+        display: flex;
+        flex-wrap: wrap;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+        border-bottom: 1px dotted #CDCFD1;
+    }
+
+    header navbar>ul>li>ul>li:last-child>ul {
+        margin-bottom: 0px;
+        margin-bottom: 0px;
+        border: none;
+    }
+
+    header navbar>ul>li>ul>li>ul>li {
+        width: 50%;
+    }
+
+    header navbar>ul>li>ul>li>ul>li>a {
+        display: flex;
+        align-items: center;
+    }
+
+    header navbar>ul>li>ul>li>ul>li .icon {
+        margin-right: 7px;
+    }
+
+    .mobile-only {
+        display: block;
+    }
+
+    .burger-button {
+        width: 21px;
+        height: 22px;
+        background: url(../images/menu-burger.png) center center;
+        background-size: contain;
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    header.inner .burger-button {
+        background: url(../images/menu-burger-blue.png) center center;
+        background-size: contain;
+    }
+
+    .menu-close {
+        width: 25px;
+        height: 25px;
+        background: url(../images/menu-close.png) center center;
+        background-size: contain;
+        display: block;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    .logo a {
+        width: 140px;
+        height: 26px;
+    }
+
+    .developers-and-isvs-block1 {
+        height: auto;
+        padding-top: 0;
+    }
+
+    .developers-and-isvs-block2 {
+        height: auto;
+        margin-top: 60px;
+        padding-bottom: 50px;
+        padding-top: 60px;
+    }
+
+    .developers-and-isvs-block3 {
+        margin-top: 30px;
+    }
+
+    .developers-and-isvs-block4 .text {
+        margin-top: 0;
+        float: none;
+        text-align: center;
+    }
+
+    .developers-and-isvs-block4 {
+        margin-top: 50px;
+    }
+
+    .developers-and-isvs-block5 {
+        margin-top: 50px;
+    }
+
+    .developers-and-isvs-block5 .text ul li {
+        width: auto;
+    }
+
+    .developers-and-isvs-block5 .text ul {
+        display: block;
+    }
+
+    .developers-and-isvs-block5 .text {
+        padding: 30px 20px 30px;
+    }
+
+    .developers-and-isvs-block5 .text ul li {
+        margin-bottom: 30px;
+    }
+
+    .food-and-beverage-block1 {
+        height: auto;
+    }
+
+    .food-and-beverage-block4 {
+        margin-top: 0;
+        text-align: center;
+    }
+
+    .food-and-beverage-block5 .text {
+        text-align: center;
+        float: none;
+        padding-top: 50px;
+    }
+
+    .food-and-beverage-block5 h2 {
+        text-align: center;
+        float: none;
+    }
+
+    .food-and-beverage-block5 p {
+        text-align: center;
+    }
+
+    .food-and-beverage-block6 {
+        height: auto;
+    }
+
+    .food-and-beverage-block6 .img-wrapper {
+        float: none;
+        padding: 0;
+    }
+
+    .food-and-beverage-block6 .text {
+        float: none;
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .food-and-beverage-block7 {
+        height: auto;
+    }
+
+    .food-and-beverage-block7 .text {
+        float: none;
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .food-and-beverage-block8 {
+        padding-top: 70px;
+    }
+
+    .iso-program-block1 {
+        height: auto;
+    }
+
+    .iso-program-block2 {
+        padding-top: 60px;
+    }
+
+    .iso-program-block2 .features-wrapper {
+        margin: 50px auto 0;
+        padding: 30px 20px;
+    }
+
+    .iso-program-block2 .features .item {
+        width: auto;
+        padding: 0;
+        border: none;
+        margin-bottom: 40px;
+    }
+
+    .iso-program-block2 .features {
+        display: block;
+    }
+
+    .iso-program-block5 .text {
+        padding-top: 60px;
+        text-align: center;
+    }
+
+    .iso-program-block6 {
+        padding-top: 70px;
+        padding-bottom: 60px;
+        text-align: center;
+        background-position-y: bottom;
+    }
+
+    .contact .content-wrapper {
+        width: auto;
+    }
+
+    .agent-program-block1 {
+        height: auto;
+    }
+
+    .agent-program-block4 {
+        height: auto;
+        padding-top: 0;
+    }
+
+    .agent-program-block4 .text {
+        float: none;
+        width: auto;
+        text-align: center;
+    }
+
+    .agent-program-block4 .text2 {
+        float: none;
+        width: auto;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .agent-program-block8 {
+        margin-top: 50px;
+        padding-top: 75px;
+    }
+
+    .agent-program-block5 .text {
+        padding-top: 0;
+    }
+
+    .agent-program-block5 {
+        height: auto;
+        text-align: center;
+    }
+
+    .agent-program-block7 .text {
+        padding-top: 0;
+        height: auto;
+        text-align: center;
+    }
+
+    .card-issuing-block1 {
+        height: auto;
+    }
+
+    .card-issuing-block2 {
+        margin-top: 60px;
+        padding: 70px 0 40px;
+    }
+
+    .card-issuing-block4 .text h2 {
+        margin-top: 70px;
+    }
+
+    .card-issuing-block5 .text {
+        padding-top: 45px;
+    }
+
+    .card-issuing-block5 .img-wrapper {
+        padding-top: 0;
+    }
+
+    .card-issuing-block6 {
+        margin-top: -70px;
+    }
+
+    .card-issuing-block6 .item1 .icon, .card-issuing-block6 .item3 .icon, .card-issuing-block6 .item5 .icon {
+        float: none;
+        margin-left: 0;
+    }
+
+    .card-issuing-block6 .item1 .text, .card-issuing-block6 .item3 .text, .card-issuing-block6 .item5 .text {
+        width: auto;
+        text-align: center;
+        float: none;
+        margin-bottom: 40px;
+    }
+
+    .card-issuing-block6 .item2 .icon, .card-issuing-block6 .item4 .icon, .card-issuing-block6 .item6 .icon {
+        float: none;
+        margin-right: 0;
+    }
+
+    .card-issuing-block6 .item2 .text, .card-issuing-block6 .item4 .text, .card-issuing-block6 .item6 .text {
+        width: auto;
+        text-align: center;
+        float: none;
+        margin-bottom: 40px;
+    }
+
+    .card-issuing-block8 {
+        padding: 75px 0 50px;
+    }
+
+    .online-banking-block1 {
+        height: 770px;
+    }
+
+    .online-banking-block2 {
+        padding-top: 50px;
+        position: relative;
+    }
+
+    .online-banking-block2 .item-wrapper {
+        margin: 0px 0 30px;
+    }
+
+    .online-banking-block2 .pane-left, .online-banking-block2 .pane-right {
+        float: none;
+        width: auto;
+    }
+
+    .online-banking-block2 .item-wrapper div.caption {
+        font-size: 20px;
+        line-height: 27.5px;
+    }
+
+    .online-banking-block4 .text {
+        padding-bottom: 0;
+    }
+
+    .online-banking-block4 .percent-table {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .online-banking-block4 .percent-table .item-wrapper {
+        text-align: center;
+        margin: 20px 0;
+    }
+
+    .online-banking-block4 .percent-table .item-wrapper .percent {
+        font-size: 40px;
+        line-height: 49px;
+    }
+
+    .online-banking-block4 .percent-table .item-wrapper .desc {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .online-banking-block9 .bar {
+        display: block;
+    }
+
+    .online-banking-block9 .bar .item {
+        width: auto;
+        margin: 10px 0;
+        padding-top: 10px;
+        box-sizing: border-box;
+        height: auto;
+        max-width: none;
+    }
+
+    .online-banking-block9 .bar .item br {
+        display: none;
+    }
+
+    .online-banking-block9 .bar .bar-title {
+        text-align: center;
+    }
+
+    .online-banking-block9 .images {
+        display: block;
+    }
+
+    .online-banking-block9 .images .item {
+        margin-bottom: 20px;
+        max-width: 370px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .online-banking-block1 .header-form input[type="email"] {
+        width: 150px;
+    }
+
+    .online-banking-block1 .img-wrapper .image-right-blur {
+        display: block;
+    }
+
+    .online-banking-block1 .caption {
+        margin-top: 0;
+    }
+
+    .online-banking-block8 {
+        padding-top: 30px;
+    }
+
+    .online-banking-block8 .left-pane, .online-banking-block8 .right-pane {
+        float: none;
+        width: auto;
+    }
+
+    .online-banking-block8 .left-pane {
+        text-align: center;
+        padding-right: 0;
+    }
+
+    .online-banking-block8 .range-wrapper {
+        padding: 30px 30px 15px;
+    }
+
+    .content-page-body .content-page.terms-inner li a {
+        padding: 15px 0px;
+        font-size: 16px;
+    }
+
+    .content-page-body .content-page.terms-inner, .content-page-body .content-page.terms-inner p {
+        font-size: 16px;
+    }
+
+    .content-page-body .content-page.terms-inner li a:after {
+        width: 8px;
+        height: 14px;
+    }
+
+    .content-page-body .content-page.terms-main li {
+        padding-left: 30px;
+    }
+
+    .online-banking-block11 {
+        padding: 0px 0 60px;
+    }
+
+    .online-banking-block11 .line1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .online-banking-block11 .line2 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .online-banking-block10 .img-wrapper img {
+        width: auto;
+    }
+
+    .online-banking-block10 .text {
+        margin-left: 0;
+    }
+
+    .online-banking-block10 {
+        padding-bottom: 60px;
+    }
+
+    .online-banking-block10 .text {
+        padding-top: 20px;
+    }
+
+    .iso-banking-block1 {
+        height: auto;
+        text-align: center;
+    }
+
+    .iso-banking-block2 {
+        margin-top: 0;
+    }
+
+    .iso-banking-block2 .line1, .iso-banking-block2 .line2, .iso-banking-block2 .line3 {
+        flex-direction: column;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .iso-banking-block2 .text-wrapper .image img {
+        margin: 0;
+    }
+
+    .iso-banking-block4 .block-wrapper {
+        flex-direction: column;
+    }
+
+    .iso-banking-block4 .line {
+        width: 100%;
+        justify-content: left;
+    }
+
+    .iso-banking-block6 .content-wrapper {
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .iso-banking-block1 .img-wrapper img {
+        height: auto;
+    }
+
+    .iso-banking-block6 .image {
+        margin-right: 0px;
+    }
+
+    .iso-banking-block5 .line {
+        flex-direction: column;
+    }
+
+    .iso-banking-block5 .line .image img {
+        max-width: 100%;
+    }
+
+    .iso-banking-block5 .line .text {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .iso-banking-block7 .rows-wrapper {
+        flex-direction: column;
+    }
+}
