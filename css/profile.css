@@ -1,0 +1,121 @@
+.profile .profile-ing {
+    display: none;
+}
+
+.profile .profile-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile .profile-title {
+    color: #3B3E43;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.profile .profile-user__job {
+    margin-top: 10px;
+    color: #72C7F0;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 122%;
+    letter-spacing: 2.1px;
+    text-transform: uppercase;
+}
+
+.profile .profile-data {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.profile .profile-text {
+    color: #3B3E43;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 521px;
+}
+
+.profile .social-networks {
+    display: flex;
+    margin-top: 25px;
+    gap: 12px;
+}
+
+.profile .profile-right__ing {
+    max-width: 500px;
+    overflow: hidden;
+}
+
+.profile .profile-user__img {
+    width: 100%;
+}
+
+/* Mediya */
+@media (max-width:1100px) {
+    .profile .profile-right__ing {
+        width: 360px;
+        overflow: hidden;
+    }
+
+    .profile .profile-title {
+        color: #3B3E43 !important;
+        font-size: 50px !important;
+        font-weight: 500 !important;
+        line-height: 120% !important;
+        width: 337px;
+        margin-bottom: 10px !important;
+    }
+}
+
+@media (max-width:900px) {
+
+    .profile .profile-right__ing {
+        display: none;
+    }
+
+    .profile .profile-ing {
+        display: block;
+        padding: 0;
+    }
+
+    .profile .profile-wrap {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .profile .profile-left {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .profile .profile-text {
+        text-align: center;
+    }
+
+    .profile .profile-data {
+        margin-top: -10px;
+    }
+}
+
+@media (max-width:397px) {
+    .profile .profile-title {
+        font-size: 36px !important;
+        margin-bottom: 0 !important;
+    }
+
+    .profile .profile-user__job {
+        font-size: 16px;
+    }
+
+    .profile .svg {
+        width: 30px;
+        height: 30px;
+    }
+}
